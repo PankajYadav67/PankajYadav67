@@ -82,3 +82,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PankajYadav67&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
+
+## Profile View
+ <div align="center">
+   
+   ![](https://komarev.com/ghpvc/?username=PankajYadav67&abbreviated=true&style=for-the-badge)
+ </div>
