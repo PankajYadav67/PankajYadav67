@@ -72,6 +72,12 @@
 <a href="https://linkedin.com/in/pankajkumar-yadav-371647198" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://leetcode.com/pankaj9967/" target="_blank">
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>
+</a>  
+<a href="https://auth.geeksforgeeks.org/user/pankaj981966/" target="_blank">
+<img src=https://media.geeksforgeeks.org/gfg-gg-logo.svg alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 
